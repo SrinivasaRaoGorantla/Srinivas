@@ -1,4 +1,6 @@
 This is First File. Srini.
 Today lab class 13-Jan. 
 Happy Pongal 2019.
-Simplilearn Lab class on Pongal Day.
+Simplilern Lab class on Pongal Day.pt-get install git
+To check the Diff command in First File
+
